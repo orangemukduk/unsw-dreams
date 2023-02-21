@@ -1,0 +1,1 @@
+var BACKEND_PORT = "0";var DEPLOYED_URL = "http://tue15cblinker.alwaysdata.net";
